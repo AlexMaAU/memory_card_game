@@ -6,9 +6,10 @@ export const cardText = {
 
 export const cardImages = [
     {src:'/images/grass.png', matched:false},
-    {src:'/images/ballon.png', matched:false},
+    {src:'/images/balloon.png', matched:false},
     {src:'/images/cherry.png', matched:false},
     {src:'/images/avocado.png', matched:false},
     {src:'/images/flower.png', matched:false},
     {src:'/images/duck.png', matched:false},
 ]
+
